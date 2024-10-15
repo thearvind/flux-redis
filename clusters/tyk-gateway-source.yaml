@@ -9,3 +9,5 @@ spec:
   ref:
     branch: main
   url: https://github.com/thearvind/flux-redis.git
+  secretRef:
+    name: git-credentials
